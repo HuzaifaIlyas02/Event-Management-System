@@ -21,3 +21,12 @@ Using The Concepts Of Object Oriented Pregramming (OOP) C++.
 
 - ### Schedule
     - You Can Check the Schedule Of Events By their Names.
+## Headers
+
+- [Date.h](https://github.com/Huzaifailyas1122/Event-Management-System/blob/main/Event_Management_System/Date.h)
+- [Costumer.h](https://github.com/Huzaifailyas1122/Event-Management-System/blob/main/Event_Management_System/Costumer.h)
+- [Event.h](https://github.com/Huzaifailyas1122/Event-Management-System/blob/main/Event_Management_System/Event.h)
+## Screenshots
+
+![](https://github.com/Huzaifailyas1122/Event-Management-System/blob/main/Screenshots/Editing_Event.PNG?raw=true)
+
